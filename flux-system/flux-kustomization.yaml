@@ -4,7 +4,7 @@ metadata:
   name: production
 spec:
   interval: 5m0s
-  path: ./deploy1
+  path: ./production
   prune: false
   suspended: true
   sourceRef:
